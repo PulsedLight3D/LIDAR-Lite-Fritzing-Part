@@ -20,7 +20,8 @@ Frizzing is an free, open-source and easy-to-use visual and proto-schematic layo
 
 
 ![alt tag](http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/10/Install-Fritzing-Part.png)
-Right click in the parts window and select "Import" to install new parts into Fritzing
+
+_Right click in the parts window and select "Import" to install new parts into Fritzing_
 
 ## SVG
 
