@@ -22,7 +22,9 @@ _Right click in the parts window and select "Import" to install new parts into F
 4. Right-click the panel and select "Import" (see image above) 
 5. Select LIDARLite-Fritzing-Part.fzpz and click "Open"
 6. When you close Fritzing after working with it, it will ask you "Do you want to keep the imported parts?" click "Yes". 
-7. Another pop-up will appear asking "Do you want to save the changes you made in the bin "My Parts"?" click "Save"and the LIDAR-Lite will now be part of your parts library until you delete it. _NOTE: While the second pop-up seems redundant, you have the ability to not only import, but modify parts. This second window is a catch for modifications to the parts library where the first window is concerned with additions to the library._
+7. Another pop-up will appear asking "Do you want to save the changes you made in the bin "My Parts"?" click "Save"and the LIDAR-Lite will now be part of your parts library until you delete it. 
+
+_NOTE: While the second pop-up seems redundant, you have the ability to not only import, but modify parts. This second window is a catch for modifications to the parts library where the first window is concerned with additions to the library._
 
 
 
