@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7px" height="55px" viewBox="0 0 7 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>LIDAR-Lite PCB</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="LIDAR-Lite-PCB" sketch:type="MSArtboardGroup" stroke="#FFBF00">
+            <g id="copper0" sketch:type="MSLayerGroup" transform="translate(0.894336, 1.129849)">
+                <ellipse id="connector7pin" sketch:type="MSShapeGroup" cx="2.62086596" cy="21.6170295" rx="2.62086596" ry="2.61702946"></ellipse>
+                <ellipse id="connector6pin" sketch:type="MSShapeGroup" cx="2.62086596" cy="31.1512876" rx="2.62086596" ry="2.62086596"></ellipse>
+                <ellipse id="connector5pin" sketch:type="MSShapeGroup" cx="2.62086596" cy="40.6817093" rx="2.62086596" ry="2.62086596"></ellipse>
+                <ellipse id="connector4pin" sketch:type="MSShapeGroup" cx="2.62086596" cy="50.212131" rx="2.62086596" ry="2.62086596"></ellipse>
+                <ellipse id="connector7pin-2" sketch:type="MSShapeGroup" cx="2.62086596" cy="2.61702946" rx="2.62086596" ry="2.61702946"></ellipse>
+                <ellipse id="connector6pin-2" sketch:type="MSShapeGroup" cx="2.62086596" cy="12.1512876" rx="2.62086596" ry="2.62086596"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="64px" viewBox="0 0 37 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>LIDAR-Lite Schematic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="LIDAR-Lite-Schematic" sketch:type="MSArtboardGroup">
+            <g id="prefix0000_ef28e800a5cbe3cd8ce6bfad6e57d721_0_schematic" sketch:type="MSLayerGroup" transform="translate(3.000000, 3.000000)">
+                <g id="schematic">
+                    <rect id="Rectangle-path" stroke="#000000" sketch:type="MSShapeGroup" x="16" y="0" width="15.6526515" height="59"></rect>
+                    <text id="LIDAR-Lite" fill="#000000" sketch:type="MSTextLayer" transform="translate(25.613758, 29.500000) rotate(-90.000000) translate(-25.613758, -29.500000) " font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="16" y="31">LIDAR-Lite</tspan>
+                    </text>
+                    <path d="M-0.170918406,7 L15.5939394,7" id="Shape" stroke="#787878" sketch:type="MSShapeGroup"></path>
+                    <text id="label0" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="17.1647789" y="8.53311066">1</tspan>
+                    </text>
+                    <path d="M-0.170918406,15 L15.5939394,15" id="Shape" stroke="#787878" sketch:type="MSShapeGroup"></path>
+                    <text id="label1" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="17.1647789" y="16.5249139">2</tspan>
+                    </text>
+                    <path d="M-0.170918406,23 L15.5939394,23" id="Shape" stroke="#787878" sketch:type="MSShapeGroup"></path>
+                    <text id="label2" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="17.1647789" y="24.5167172">3</tspan>
+                    </text>
+                    <path d="M-0.170918406,31 L15.5939394,31" id="Shape" stroke="#787878" sketch:type="MSShapeGroup"></path>
+                    <text id="label3" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="17.1647789" y="32.5085205">4</tspan>
+                    </text>
+                    <path d="M-0.170918406,41 L15.5939394,41" id="Shape-2" stroke="#787878" sketch:type="MSShapeGroup"></path>
+                    <text id="5" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+                        <tspan x="17.1647789" y="42.5085205">5</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <path d="M2.82908159,54 L18.5939394,54" id="Shape-2" stroke="#787878" sketch:type="MSShapeGroup"></path>
+        <text id="6" fill="#000000" sketch:type="MSTextLayer" font-family="Helvetica" font-size="3.35248966" font-weight="normal">
+            <tspan x="20.1647789" y="55.5085205">6</tspan>
+        </text>
+    </g>
+</svg>
