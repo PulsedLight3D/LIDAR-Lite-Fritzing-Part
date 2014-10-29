@@ -14,6 +14,8 @@ Frizzing is an free, open-source and easy-to-use visual and proto-schematic layo
 
 _Right click in the parts window and select "Import" to install new parts into Fritzing_
 
+### Step-by-Step Installation Instructions:
+
 1. Download this repository
 2. Open Fritzing
 3. Go to "My Parts" in the parts browser
