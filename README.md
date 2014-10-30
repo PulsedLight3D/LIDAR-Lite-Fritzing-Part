@@ -3,7 +3,7 @@ LIDAR-Lite-Fritzing-Part
 
 The LIDAR-Lite Fritzing Part in action!
 
-![alt tag](http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/10/LIDAR-Lite-Fritzing-Part-Screenshot.png)
+![alt tag](http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/10/LIDARLite-I2C-Arduino-Setup.png)
 
 Frizzing is an free, open-source and easy-to-use visual and proto-schematic layout editor. This repository contains a LIDAR-Lite Fritzing part for use in your sketches. Learn more about Fritzing here: http://fritzing.org/home/
 
